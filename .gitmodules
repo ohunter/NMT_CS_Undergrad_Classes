@@ -16,3 +16,24 @@
 [submodule "324"]
 	path = 324
 	url = https://github.com/ohunter/324.git
+[submodule "325"]
+	path = 325
+	url = https://github.com/ohunter/325.git
+[submodule "326"]
+	path = 326
+	url = https://github.com/ohunter/326.git
+[submodule "331"]
+	path = 331
+	url = https://github.com/ohunter/331.git
+[submodule "344"]
+	path = 344
+	url = https://github.com/ohunter/344.git
+[submodule "353"]
+	path = 353
+	url = https://github.com/ohunter/353.git
+[submodule "373"]
+	path = 373
+	url = https://github.com/ohunter/373.git
+[submodule "489"]
+	path = 489
+	url = https://github.com/ohunter/489.git
