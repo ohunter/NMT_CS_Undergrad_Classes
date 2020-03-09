@@ -37,3 +37,6 @@
 [submodule "489"]
 	path = 489
 	url = https://github.com/ohunter/489.git
+[submodule "423/Project"]
+	path = 423/Project
+	url = https://github.com/bensonalec/CSE423_Compilers.git
